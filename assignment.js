@@ -70,6 +70,6 @@ function tinyFriend(friend) {
     }
     return min;
 }
-var Friends = ['Sakib', 'saki', 'Seikh', 'Fayez'];
+var Friends = ['Abid', 'Akib', 'Mishu', 'Emon'];
 var tinyFriend = tinyFriend(Friends);
 console.log(tinyFriend);
